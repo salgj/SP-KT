@@ -8,7 +8,7 @@ source activate pykt
 ```
 
 ```
-cd HF-KT
+cd FM-KT
 pip install -e .
 ```
 
