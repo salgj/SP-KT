@@ -1,4 +1,4 @@
-# FM-KT
+# SP-KT
 
 ## Installation
 Use the following command to install pyKT: Create conda envirment.
@@ -8,7 +8,7 @@ source activate pykt
 ```
 
 ```
-cd FM-KT
+cd SP-KT
 pip install -e .
 ```
 
